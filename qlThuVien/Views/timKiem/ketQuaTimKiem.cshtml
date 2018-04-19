@@ -1,0 +1,60 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+
+@model IPagedList<qlThuVien.Models.EF.Sach>
+
+@{
+    ViewBag.Title = "ketQuaTimKiem";
+    Layout = "~/Views/layout/AdminLayout.cshtml";
+}
+
+<h2>Kết quả tìm kiếm</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().tenSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().namXuatBan)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().soLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maLoaiSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maTacGia)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.maSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tenSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.namXuatBan)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.soLuong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.maLoaiSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.maTacGia)
+        </td>
+    </tr>
+}
+
+</table>

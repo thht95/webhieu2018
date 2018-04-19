@@ -1,0 +1,77 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@model PagedList.PagedList<qlThuVien.Models.EF.Sach>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/layout/AdminLayout.cshtml";
+}
+
+<h2>Quản lý sách</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "Them")
+</p>
+<table class="table" border="1">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().tenSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().namXuatBan)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().soLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maLoaiSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maTacGia)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.maSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tenSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.namXuatBan)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.soLuong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.maLoaiSach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.maTacGia)
+        </td>
+        <td>
+            @Html.ActionLink("Chỉnh sửa", "Sua", new { @maSach = item.maSach })|
+            @Html.ActionLink("Hiển thị", "HienThi", new { @maSach = item.maSach })|
+            @Html.ActionLink("Xóa", "Xoa", new { @maSach = item.maSach })
+        </td>
+    </tr>
+}
+</table>
+
+@*link liên kết các trang*@
+Trang @(Model.PageCount <Model.PageNumber ? 0: Model.PageNumber)/ @Model.PageCount
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>
+
+<style>
+    .MenuTrang li{
+        display: inline;
+    }
+</style>

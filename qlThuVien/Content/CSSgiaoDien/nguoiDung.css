@@ -1,0 +1,81 @@
+﻿div#toanTrang{
+    position: relative;
+}
+
+.DangKyDangNhap {
+    float: right;
+    margin-top: -1%;
+}
+
+.DangKyDangNhap a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+/*CSS Menu*/
+#Menu{
+    height: 28px;
+    background-color: violet;
+}
+.meNu{
+    float: right;
+    margin-right: 10%;
+
+}
+.meNu li {
+    display: inline;
+    border-right: solid 1px #A4A4A4;
+    padding: 20px;
+    padding-top: 21px;
+    padding-bottom: 22px;
+}
+.meNu li:hover {
+    background-color: #A4A4A4;
+    transition: all .5s ease-out;
+}
+.meNu a:hover{
+    text-decoration: none;
+    color: blue;
+}
+.timKiem{
+    float: left;
+    margin-left: 5%;
+}
+.timKiem input{
+    height: 0;
+}
+#btnTimKiem input{
+    float: left;
+    margin-left: 300px;
+    width: 70px;
+    height: 32px;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+#btnTimKiem input:hover{
+    background-color:yellow;
+    cursor: pointer;
+}
+.pootter a{
+    background-color: violet;
+}
+
+/*CSS slider*/
+#slider{
+    float: right;
+    width: 900px;
+    height: 360px;
+}
+#slider img{
+    width: 900px;
+    height: 350px;
+}
+
+/*CSS hộp menu trái*/
+#MenuTrai{
+    float: left;
+}
+
+.Click a{
+    text-decoration: none;
+}

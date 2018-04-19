@@ -1,0 +1,44 @@
+﻿@model qlThuVien.Models.EF.Muon_Tra
+
+@{
+    ViewBag.Title = "Xoa";
+    Layout = "~/Views/layout/AdminLayout.cshtml";
+}
+
+
+<h3>Bạn có chắc chắn muốn xóa?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.HiddenFor(model => model.PK_muontra)
+        </dt>
+        <dt>
+            @Html.DisplayNameFor(model => model.maSach)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.maSach)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.maDocGia)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.maDocGia)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Trở về", "Index")
+        </div>
+    }
+</div>
+
+
+
+hjhj

@@ -1,0 +1,172 @@
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\ApplicationInsights.config
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\csc.exe
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\vbc.exe
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\qlThuVien.dll.config
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\qlThuVien.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\qlThuVien.pdb
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Antlr3.Runtime.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\EntityFramework.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Newtonsoft.Json.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Owin.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Helpers.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Mvc.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Optimization.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Razor.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.WebPages.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.WebPages.Razor.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\WebGrease.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Helpers.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Mvc.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Optimization.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.Razor.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.WebPages.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\System.Web.WebPages.Razor.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Antlr3.Runtime.pdb
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Newtonsoft.Json.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\EntityFramework.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\obj\Debug\qlThuVien.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\obj\Debug\qlThuVien.pdb
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\PagedList.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\PagedList.Mvc.dll
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\PagedList.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\bin\PagedList.Mvc.xml
+C:\Users\NguyenTu-PC\Documents\Visual Studio 2015\Projects\qlThuVien\qlThuVien\obj\Debug\qlThuVien.csprojResolveAssemblyReference.cache
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\ApplicationInsights.config
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\csc.exe
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\System.Collections.Immutable.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\System.Reflection.Metadata.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\vbc.exe
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\VBCSCompiler.exe
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\roslyn\VBCSCompiler.exe.config
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\qlThuVien.dll.config
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\qlThuVien.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\qlThuVien.pdb
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Antlr3.Runtime.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\EntityFramework.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\EntityFramework.SqlServer.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.DependencyCollector.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.Web.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.WindowsServer.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.ApplicationInsights.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Google.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Web.Infrastructure.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Newtonsoft.Json.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Owin.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\PagedList.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\PagedList.Mvc.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Helpers.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Mvc.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Optimization.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Razor.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.WebPages.Deployment.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.WebPages.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.WebPages.Razor.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\WebGrease.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.DependencyCollector.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.Web.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AI.WindowsServer.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.ApplicationInsights.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\PagedList.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\PagedList.Mvc.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Helpers.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Mvc.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Optimization.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.Razor.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.WebPages.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.WebPages.Deployment.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\System.Web.WebPages.Razor.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Antlr3.Runtime.pdb
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Newtonsoft.Json.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\EntityFramework.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\EntityFramework.SqlServer.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Google.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\obj\Debug\qlThuVien.csprojResolveAssemblyReference.cache
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\obj\Debug\qlThuVien.dll
+D:\LTW\qlThuVien-20161207T084247Z (1)\qlThuVien\qlThuVien\obj\Debug\qlThuVien.pdb

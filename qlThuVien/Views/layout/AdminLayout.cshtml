@@ -1,0 +1,103 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>SB Admin - Bootstrap Admin Template</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Content/AdminCSS/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="~/Content/AdminCSS/css/sb-admin.css" rel="stylesheet">
+    <!-- Morris Charts CSS -->
+    <link href="~/Content/AdminCSS/css/plugins/morris.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="~/Content/AdminCSS/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!--CSS Tìm kiếm-->
+    <style>
+        .timKiem{
+        float: left;
+        margin-left: 5%;
+        }
+        .timKiem input{
+        height: 30px;
+        }
+        #btnTimKiem input{
+        width: 70px;
+        height: 32px;
+        margin-top: -15%;
+        border-radius: 5px;
+        }
+        #btnTimKiem input:hover{
+        background-color:yellow;
+        cursor: pointer;
+        }
+    </style>
+ 
+</head>
+<body>
+    <div id="wrapper">
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <a class="navbar-brand" href="@Url.Content("~/main/Index")">Trang chủ - Quản lý thư viện</a>
+            </div>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li class="active">
+                        <a href="/QuanlySanpham/Index"><i class="fa fa-fw fa-bar-chart-o"></i> Sách</a>
+                    </li>
+                    <li>
+                        <a href="/Loaisach/Index"><i class="fa fa-fw fa-bar-chart-o"></i> Loại sách</a>
+                    </li>
+                    <li>
+                        <a href="/MuontraSach/Index"><i class="fa fa-fw fa-table"></i> Mượn sách - Trả sách</a>
+                    </li>
+                    <li>
+                        <a href="/Nguoimuon/Index"><i class="fa fa-fw fa-edit"></i> Người mượn</a>
+                    </li>
+                    <li>
+                        <a href="/Tacgia/Index"><i class="fa fa-fw fa-desktop"></i> Tác giả</a>
+                    </li>
+
+                    @*Tìm kiếm*@
+                    <div class="timKiem">
+                        <form action="../timKiem/ketQuaTimKiem/" method="post">
+                            @Html.TextBox("txtTimKiem", "", new { @class = "txtTimKiem", @placeholder = "Nhập từ khóa cần tìm kiếm..." })
+                            <p>
+                                <div id="btnTimKiem">
+                                    <input type="submit" name="btnTimKiem" value="Tìm kiếm" />
+                                </div>
+                            </p>
+                        </form>
+
+                    </div>
+
+                </ul>
+            </div>
+        </nav>
+
+        <div id="page-wrapper">
+            @RenderBody()
+        </div>
+        <!-- /#page-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+    <!-- jQuery -->
+    <script src="~/Content/AdminCSS/js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Content/AdminCSS/js/bootstrap.min.js"></script>
+    <!-- Morris Charts JavaScript -->
+    <script src="~/Content/AdminCSS/js/plugins/morris/raphael.min.js"></script>
+    <script src="~/Content/AdminCSS/js/plugins/morris/morris.min.js"></script>
+    <script src="~/Content/AdminCSS/js/plugins/morris/morris-data.js"></script>
+</body>
+</html>
+
+

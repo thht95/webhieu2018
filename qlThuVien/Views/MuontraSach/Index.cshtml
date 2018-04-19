@@ -1,0 +1,78 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@model PagedList.PagedList<qlThuVien.Models.EF.Muon_Tra>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/layout/AdminLayout.cshtml";
+}
+
+<h2>Quản lý người dùng</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "Them")
+</p>
+<table class="table" border="1">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maDocGia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().soLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ngayMuon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ngayHenTra)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ngayTra)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.maDocGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.maSach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.soLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ngayMuon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ngayHenTra)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ngayTra)
+            </td>
+
+            <td>
+                @Html.ActionLink("Chỉnh sửa", "Sua", new { @maDocgia = item.maDocGia, @maSach = item.maSach })|
+                @Html.ActionLink("Xóa", "Xoa", new { @pk_muontra = item.PK_muontra})
+            </td>
+        </tr>
+    }
+</table>
+
+@*link liên kết các trang*@
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/ @Model.PageCount
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>
+
+<style>
+    .MenuTrang li {
+        display: inline;
+    }
+</style>

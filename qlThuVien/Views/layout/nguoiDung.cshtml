@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @*Chèn CSS giao diện (download)*@
+    <link href="~/Content/CSSgiaoDien/fonts.css" rel="stylesheet" />
+    <link href="~/Content/CSSgiaoDien/screen.css" rel="stylesheet" />
+    @*Chèn CSS nguoiDung.css*@
+    <link href="~/Content/CSSgiaoDien/nguoiDung.css" rel="stylesheet" />
+    @*Chèn CSS ký tự*@
+    <link href="~/Content/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    @*Chèn CSS, javascript nivo-slider*@
+    <link href="~/nivo-slider/nivo-slider.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/nivo-slider/jquery.nivo.slider.js"></script>
+    <script src="~/nivo-slider/jquery.nivo.slider.pack.js"></script>
+</head>
+<body>
+
+    <div id="toanTrang">
+        <section class="blank">
+            <div class="flash success" id="Menu">
+                <div class="timKiem">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.TextBox("timKiem", "", htmlAttributes: new { @class = "txtTimKiem", @placeholder = "Nhập từ khóa cần tìm kiếm..." })
+                        <div id="btnTimKiem">
+                            <input type="submit" name="btnTimKiem" value="Tìm kiếm" />
+                        </div>
+                    }
+
+                </div>
+                <ul class="meNu">
+                    <li>
+                        <a href="#">Sách</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Loại sách</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Mượn - Trả</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Người mượn</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Tác giả</a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <div id="MenuTrai">
+                <div class="activity">
+                    <h1 class="item-header">Recent Activity</h1>
+                    <div class="activity-list-update">
+                        <img src="http://lorempixel.com/50/50/" alt="Image">
+                        <p><strong>Tiếng Việt thực hành</strong></p>
+                        <p><strong>Tác giả : Nguyễn Đức Dân</strong></p>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="activity-list-update">
+                        <img src="http://lorempixel.com/50/50/" alt="Image">
+                        <p><strong>A complete skill builder for the VNU-EPT-Test (Two Audio CDs included)</strong></p>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="activity-list-update">
+                        <img src="http://lorempixel.com/50/50/" alt="Image">
+                        <p><strong>Đáp lời sông núi</strong></p>
+                        <p><strong>Tác giải: Nhiều tác giả</strong></p>
+                        <div class="clear"></div>
+                    </div>
+                    <a href="#" class="item-footer green">
+                        See all activity
+                    </a>
+                </div>
+            </div>
+
+            @*Chèn slider đầu trang*@
+            <div id="slider" class="nivoSlider">
+                <img src="~/HinhAnh/00001.JPG" />
+                <img src="~/HinhAnh/00002.jpg" />
+                <img src="~/HinhAnh/00003.jpg" />
+            </div>
+            <div style="clear:both"></div>
+        </section>
+
+        @RenderBody()
+
+        <section>
+            <center>
+                <div class="Click">
+                    <a href="#" class="button">Giáo trình</a>
+                    <a href="#" class="button button-submit">Góc giải trí</a>
+                    <a href="#" class="button">Học tiếng anh</a>
+                    <a href="#" class="button button-submit">Nghiên cứu khoa học</a>
+                    <a href="#" class="button">Kỹ năng mềm</a>
+                    <a href="#" class="button button-submit">Tạp chí</a>
+                </div>
+                </center>
+                    <hr>
+                    <div class="pootter">
+                        <a href="#" class="button button-buy">CÔNG NGHỆ DOTNET</a>
+                    </div>
+        </section>
+    </div>
+
+    @*Chèn slide đầu trang*@
+    <script type="text/javascript">
+
+            $(window).on('load', function() {
+                $('#slider').nivoSlider({
+                    controlNav: false,                 // xóa phân trang 1,2,3 ở slider
+                    prevText: '',                      // Prev directionNav text
+                    nextText: '',                      // Next directionNav text
+                });
+            });
+    </script>
+</body>
+</html>
