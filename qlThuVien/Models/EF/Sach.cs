@@ -20,7 +20,7 @@
 
         public DateTime? namXuatBan { get; set; }
 
-        [Display(Name = "")]
+        [Display(Name = "Số lượng")]
         public int? soLuong { get; set; }
 
         [StringLength(50)]
