@@ -18,6 +18,7 @@
         [Display(Name = "Tên sách")]
         public string tenSach { get; set; }
 
+        [Display(Name = "Năm xuất bản")]
         public DateTime? namXuatBan { get; set; }
 
         [Display(Name = "Số lượng")]
